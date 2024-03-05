@@ -13,6 +13,10 @@ Proposed Solutions: Suggestions for database schema modifications to resolve ide
 Sample Analyses: Minor analytical examples to demonstrate how data model improvements can lead to better insights.
 Best Practices: Guidelines for maintaining data integrity and ensuring accurate analyses in a retail context.
 
+# Relational Model
+![Blank diagram](https://github.com/smmalik98/Retail-Data-Model-Analysis-and-Optimization/assets/97324716/665e2082-97c7-4600-a5ca-f51d2c0c777c)
+
+
 # Intended Audience:
 Data architects, database administrators, and data analysts involved in retail analytics will find this repository particularly useful. It is also intended for educational purposes, providing a real-world example of data model assessment and optimization.
 
