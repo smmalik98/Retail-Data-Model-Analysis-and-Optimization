@@ -1,5 +1,5 @@
 # Retail-Data-Model-Analysis-and-Optimization
-This repository dives deep into to the handling of highly unstructured data and it's analysis which can lead to maintaining data integrity
+This repository dives deep into to the handling of highly unstructured data and it's analysis which can help in maintaining data integrity
 
 # Description:
 This repository is dedicated to the analysis and optimization of a retail data model focusing on sales transactions, user engagement, and brand metrics. It provides a detailed examination of the current data structure, identifies key flaws, suggests improvements, and includes minor data analyses to illustrate potential insights. The project aims to enhance data integrity, optimize data relationships, and improve overall data quality for more accurate and insightful analytics.
